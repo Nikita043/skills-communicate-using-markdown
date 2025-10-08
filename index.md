@@ -1,4 +1,3 @@
-# Hello
-```cpp
-std::cout<<"Hello world!";
-```
+## Hello
+- [x] install vscode
+- [x] ldemdkr
